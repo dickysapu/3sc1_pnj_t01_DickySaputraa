@@ -1,2 +1,3 @@
 no. reg : 1920010057
 nama : dicky saputra
+jurusan : CCIT-PNJ
